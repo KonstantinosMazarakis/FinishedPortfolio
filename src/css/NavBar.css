@@ -1,0 +1,41 @@
+nav {
+    background-color: rgb(223, 223, 223);
+    min-height: 100vh;
+    max-width: 300px;
+}
+
+
+.logo {
+    height: 170px;
+    width: 170px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 60px;
+}
+
+.nv , .nv:hover, .nv:focus, .nv:active {
+    display: block;
+    text-decoration: none;
+    margin: 8px 100px;
+    color: black;
+}
+
+.hover-underline-animation {
+    border-bottom: 2px solid rgba(223, 223, 223);
+
+  }
+  
+
+  .hover-underline-animation:hover {
+      border-bottom: 2px solid black;
+      
+  }
+
+  #active {
+    border-bottom: 2px solid black;
+  }
+
+.style-delete, .style-delete:link, .style-delete:hover, .style-delete:active {
+    color: black;
+    text-decoration: none;
+}

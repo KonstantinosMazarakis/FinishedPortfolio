@@ -1,0 +1,66 @@
+.parent1 {
+    margin: 13rem  0 0 2rem;
+      text-align: start;
+    }
+    
+
+    .expand-projects {
+      transform: scale(0.94);
+      animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+    
+  }
+  
+  .blur {
+    opacity: 0;
+    filter: blur(4px);
+    animation: fade-in 0.8s 0.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+    }
+
+    
+  .blur2 {
+    opacity: 0;
+    filter: blur(4px);
+    animation: fade-in 0.8s 0.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  .blur3 {
+    opacity: 0;
+    filter: blur(4px);
+    animation: fade-in 0.8s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  .blur4 {
+    opacity: 0;
+    filter: blur(4px);
+    animation: fade-in 0.8s 0.4s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  .blur5 {
+    opacity: 0;
+    filter: blur(4px);
+    animation: fade-in 0.8s 0.5s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  .blur6 {
+    opacity: 0;
+    filter: blur(4px);
+    animation: fade-in 0.8s 0.6s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  .blur7 {
+    opacity: 0;
+    filter: blur(4px);
+    animation: fade-in 0.8s 0.7s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  .blur8 {
+    opacity: 0;
+    filter: blur(4px);
+    animation: fade-in 0.8s 0.8s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  .blur9 {
+    opacity: 0;
+    filter: blur(4px);
+    animation: fade-in 0.8s 0.9s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }

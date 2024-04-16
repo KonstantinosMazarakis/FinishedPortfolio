@@ -1,0 +1,81 @@
+.contact {
+    margin-top: 200px;
+    margin-left: 100px;
+    width: 400px;
+}
+
+.txtArea {
+    width: 100%;
+}
+
+.txtField {
+    width: 100%;
+}
+
+.email {
+    margin-top: 50px;
+    text-align: start;
+}
+
+.phone {
+    text-align: start;
+
+}
+
+
+
+
+
+.expand-contact {
+    transform: scale(0.94);
+    animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+  
+}
+
+
+.blur-contact {
+    opacity: 0;
+    filter: blur(4px);
+  }
+  
+  .blur-contact:nth-child(1) {
+    animation: fade-in 0.8s 0.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  .blur-contact:nth-child(2) {
+    animation: fade-in 0.8s 0.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  .blur-contact:nth-child(3) {
+    animation: fade-in 0.8s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+
+  .blur-contact-txt {
+    opacity: 0;
+    filter: blur(4px);
+    animation: fade-in 0.8s 0.4s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+
+
+ 
+
+ .blur-contact-button {
+    opacity: 0;
+    filter: blur(4px);
+    animation: fade-in 0.8s 0.5s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+ .blur-contact-p {
+    opacity: 0;
+    filter: blur(4px);
+    animation: fade-in 0.8s 0.6s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+
+  .blur-contact-p2 {
+    opacity: 0;
+    filter: blur(4px);
+    animation: fade-in 0.8s 0.7s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
